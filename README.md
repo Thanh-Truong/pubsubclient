@@ -1,2 +1,2 @@
 # pubsubclient
-pubsubclient using apache-beam-sdk 2.9.0
+pubsubclient using https://beam.apache.org
